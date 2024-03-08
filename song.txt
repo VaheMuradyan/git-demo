@@ -8,3 +8,5 @@ avelacnumem
 eli 
 liq@ 
 toxer
+
+baner baner
