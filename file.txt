@@ -11,3 +11,7 @@ evs eku tox 4
 
 3 -rd kuplet
 3- rd kuplet
+
+-------------------------
+4 - rd kuplet
+4 - rd kuplet
