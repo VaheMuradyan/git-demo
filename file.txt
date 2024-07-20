@@ -8,3 +8,6 @@ evs erku tox
 evs erku tox 3
 evs eku tox 4
 -------------------------
+
+3 -rd kuplet
+3- rd kuplet
